@@ -16,7 +16,10 @@
 
   <body>
     <div id="sidebar">
-      <h1>Seth Hall</h1>
+      <h1> 
+        Seth Hall
+        <img src="{relocatable: /images/seth.png}" border="0" width="50" height="50"/>
+      </h1>
       <!-- <h2>your website slogan</h2> -->
 
       <div id="menu">
