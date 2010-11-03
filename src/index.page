@@ -2,22 +2,27 @@
 Current Work
 ============
 
-I am a research engineer in the networking group at ICSI.  My primary activity
-is working on the Bro Intrusion Detection System and promoting it's use
-in various industries under a grant from the NSF in the SDCI program.
+I am a research engineer in the networking group at ICSI_. My primary activity
+is working on the `Bro Intrusion Detection System <http://www.bro-ids.org/>`_
+and promoting it's use in various industries under a grant from the NSF in the
+SDCI program.
 
 If you are looking for someone to attend an event and speak about Bro, please
 contact me.
 
 About Me
 --------
-
-I received my undergraduate degree in Geography from The Ohio State University
-in 2003 and began working full time for the OSU Network Security Team in
-January 2004. As a member of a small team on a large network I played a large
-number of roles in helping secure the university. Eventually I discovered Bro
-and found that I could provide a large benefit by using novel detection
-techniques by watching the network with Bro. Time progressed and now I'm
-working on Bro full time.
+I received my undergraduate degree in Geography from `The Ohio State
+University <http://www.osu.edu/>`_ in 2003 and began working full time for the
+`OSU Network Security Team <http://www.infosec.ohio-state.edu/>`_ in January
+2004. As a member of a small team on a large network I played a large number
+of roles in helping secure the university. Eventually I discovered Bro and
+found that I could provide a large benefit with novel detection techniques by
+watching the network with Bro. Time progressed and now I'm working on Bro full
+time.
 
 I currently live in Worthinton, OH with my wife and two children.
+
+.. _ICSI: http://www.icsi.berkeley.edu/
+.. _ICIR: http://www.icir.org/
+.. _Bro: http://www.bro-ids.org/
