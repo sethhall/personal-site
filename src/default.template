@@ -22,6 +22,8 @@
       </h1>
       <!-- <h2>your website slogan</h2> -->
 
+      <h2>seth@icir.org</h2>
+
       <div id="menu">
         {menu: {max_levels: 1, used_nodes: files}}
       </div>
